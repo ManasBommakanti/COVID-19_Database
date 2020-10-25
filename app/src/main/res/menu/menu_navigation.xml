@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id_county"
+        android:title="County Statistics"
+        android:icon="@drawable/ic_county"/>
+    <item
+        android:id="@+id/id_country"
+        android:title="Country Statistics"
+        android:icon="@drawable/ic_globe"/>
+
+</menu>
